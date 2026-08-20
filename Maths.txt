@@ -1,0 +1,19 @@
+Network: 192.168.40.0
+No. of subnets = 2
+
+2^n = no. of subnets = 2^n=2
+n=1
+255.255.255.128
+subnet mask = /25
+
+1st subnet 
+subnet mask = 255.255.255.128
+network address = 192.168.40.0
+IP range = 192.168.40.1 --- 192.168.40.126
+Broadcast = 192.168.40.127
+
+2nd subnet 
+subnet mask = 255.255.255.128
+network address = 192.168.40.128
+IP range = 192.168.40.129 --- 192.168.40.254
+Broadcast = 192.168.40.255
